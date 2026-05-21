@@ -1,6 +1,9 @@
 name: Latest blog posts
 
 on:
+  push:
+    paths:
+      - ".github/workflows/blog.yml"
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
