@@ -2,12 +2,12 @@
 
 # 花雪 · HanaYukii
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Algorithms+%C2%B7+C%2B%2B+systems+%C2%B7+low-latency;ICPC+Gold+%C2%B7+Codeforces+IM+%C2%B7+ex-Google;Shipping+ML+systems+at+an+AI+startup;Starmine%2C+still+becoming.&font=JetBrains+Mono&size=15&color=2EC4B6&center=true&width=720&height=32&pause=2400)](https://hanayukii.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Algorithms+%C2%B7+C%2B%2B+systems+%C2%B7+low-latency;ICPC+Gold+%C2%B7+Codeforces+IM+%C2%B7+LeetCode+2800%2B;Ex-Google+%C2%B7+now+shipping+ML+at+an+AI+startup;Starmine%2C+still+becoming.&font=JetBrains+Mono&size=15&color=2EC4B6&center=true&width=720&height=32&pause=2400)](https://hanayukii.dev)
 
 [![Site](https://img.shields.io/badge/site-hanayukii.dev-2EC4B6?style=for-the-badge&logoColor=white)](https://hanayukii.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Erh--Hsuan%20Lu-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erh-hsuan-lu-a9b0681ba/)
 [![Codeforces](https://img.shields.io/badge/codeforces-IM-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HanaYukii)
-[![LeetCode](https://img.shields.io/badge/leetcode-HanaYukii-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HanaYukii/)
+[![LeetCode](https://img.shields.io/badge/leetcode-max%202800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HanaYukii/)
 
 </div>
 
@@ -16,7 +16,7 @@
 ### `/WHOAMI`
 
 - **Tech Lead @ PulsarisAI** · ex-backend @ **Google Cloud**
-- **ICPC Gold** medalist · **Codeforces International Master**
+- **ICPC Gold** medalist · **Codeforces International Master** · **LeetCode** max 2800+
 - **Algorithms**: DP, graphs, segment trees, string, number theory, computational geometry
 - **C++**: SIMD, lock-free, template metaprogramming, custom allocators
 - Currently shipping ML systems at PulsarisAI
@@ -69,7 +69,7 @@ writing        habit
 - 🌐 **Site** · [hanayukii.dev](https://hanayukii.dev)
 - 💼 **LinkedIn** · [Erh-Hsuan Lu](https://www.linkedin.com/in/erh-hsuan-lu-a9b0681ba/)
 - 🏆 **Codeforces** · [HanaYukii](https://codeforces.com/profile/HanaYukii) · IM
-- 🧩 **LeetCode** · [HanaYukii](https://leetcode.com/u/HanaYukii/)
+- 🧩 **LeetCode** · [HanaYukii](https://leetcode.com/u/HanaYukii/) · max 2800+
 - ☕ **Coffee Chat** · [30-min Calendly](https://calendly.com/islu245777/30min)
 - 📨 **Email** · islu245777@gmail.com
 
