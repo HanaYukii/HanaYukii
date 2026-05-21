@@ -17,8 +17,8 @@
 
 - **Tech Lead @ PulsarisAI** · ex-backend @ **Google Cloud**
 - **ICPC Gold** medalist · **Codeforces International Master** · **LeetCode** max 2800+
-- **Algorithms**: DP, graphs, segment trees, string, number theory, computational geometry
-- **C++**: SIMD, lock-free, template metaprogramming, custom allocators
+- **Algorithms** — strong competitive programming background
+- **C++** — primary language, performance-focused systems
 - **Web3**: [Polkadot JAM Protocol](https://github.com/New-JAMneration/JAM-Protocol) contributor · zk-curious
 - Currently shipping ML systems at PulsarisAI
 
