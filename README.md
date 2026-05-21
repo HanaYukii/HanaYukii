@@ -56,15 +56,6 @@ writing        habit
 - 📅 [**idol-cal**](https://github.com/HanaYukii/idol-cal) — PWA for tracking idol events
 - ✍️ [**hanayukii-site**](https://github.com/HanaYukii/hanayukii-site) — personal site & blog, Next.js + Tailwind
 
-### `/STATS`
-
-<div align="center">
-
-![HanaYukii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanaYukii&show_icons=true&hide_border=true&title_color=2EC4B6&icon_color=F4845F&text_color=9BA1B8&bg_color=0c0e14)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaYukii&layout=compact&hide_border=true&title_color=2EC4B6&text_color=9BA1B8&bg_color=0c0e14&langs_count=8)
-
-</div>
-
 ### `/LINKS`
 
 - 🌐 **Site** · [hanayukii.dev](https://hanayukii.dev)
