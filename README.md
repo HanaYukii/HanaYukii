@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C%2B%2B+systems+%C2%B7+low-latency+%C2%B7+performance-sensitive;ICPC+Gold+%C2%B7+Codeforces+IM+%28%7E2350%29+%C2%B7+ex-Google;Building+DR-RL+%E2%80%94+RL+x+VLSI+detailed+routing;Starmine%2C+still+becoming.&font=JetBrains+Mono&size=15&color=2EC4B6&center=true&width=720&height=32&pause=2400)](https://hanayukii.dev)
 
 [![Site](https://img.shields.io/badge/site-hanayukii.dev-2EC4B6?style=for-the-badge&logoColor=white)](https://hanayukii.dev)
-[![Blog](https://img.shields.io/badge/blog-essays-F4845F?style=for-the-badge&logoColor=white)](https://hanayukii.dev/blog)
-[![Codeforces](https://img.shields.io/badge/codeforces-IM%202350-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HanaYukii)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Erh--Hsuan%20Lu-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erh-hsuan-lu-a9b0681ba/)
+[![Codeforces](https://img.shields.io/badge/codeforces-IM%202350-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HanaYukii)
+[![LeetCode](https://img.shields.io/badge/leetcode-HanaYukii-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HanaYukii/)
 
 </div>
 
@@ -63,25 +63,14 @@ writing        habit
 
 </div>
 
-### `/WRITING`
+### `/LINKS`
 
-最近寫的（auto-updated from RSS）：
-<!-- BLOG-POST-LIST:START -->
-- [高嶺のなでしこ — 生きてりゃいい 歌詞翻譯](https://hanayukii.dev/blog/takaneko-ikite-ryaii)
-- [文件是 AI 時代的隱藏槓桿](https://hanayukii.dev/blog/documentation-ai-era)
-- [AtCoder ABC 456 F Plan Holidays](https://hanayukii.dev/blog/abc456f-plan-holidays)
-- [KOL、牛市放大器，與投資裡的平行時空](https://hanayukii.dev/blog/kol-bull-market-amplifier)
-- [各大 Online Judge 介紹](https://hanayukii.dev/blog/online-judge-guide)
-<!-- BLOG-POST-LIST:END -->
-
-→ [所有文章 · hanayukii.dev/blog](https://hanayukii.dev/blog)
-
-### `/ELSEWHERE`
-
-- 🌐 [hanayukii.dev](https://hanayukii.dev) · personal site
-- ☕ [Coffee Chat](https://calendly.com/islu245777/30min) · 30-min Calendly
-- 📨 islu245777@gmail.com
-- 📰 [RSS](https://hanayukii.dev/feed.xml)
+- 🌐 **Site** · [hanayukii.dev](https://hanayukii.dev)
+- 💼 **LinkedIn** · [Erh-Hsuan Lu](https://www.linkedin.com/in/erh-hsuan-lu-a9b0681ba/)
+- 🏆 **Codeforces** · [HanaYukii](https://codeforces.com/profile/HanaYukii) · IM (~2350)
+- 🧩 **LeetCode** · [HanaYukii](https://leetcode.com/u/HanaYukii/)
+- ☕ **Coffee Chat** · [30-min Calendly](https://calendly.com/islu245777/30min)
+- 📨 **Email** · islu245777@gmail.com
 
 ---
 
