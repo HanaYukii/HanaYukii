@@ -67,6 +67,11 @@ writing        habit
 
 最近寫的（auto-updated from RSS）：
 <!-- BLOG-POST-LIST:START -->
+- [高嶺のなでしこ — 生きてりゃいい 歌詞翻譯](https://hanayukii.dev/blog/takaneko-ikite-ryaii)
+- [文件是 AI 時代的隱藏槓桿](https://hanayukii.dev/blog/documentation-ai-era)
+- [AtCoder ABC 456 F Plan Holidays](https://hanayukii.dev/blog/abc456f-plan-holidays)
+- [KOL、牛市放大器，與投資裡的平行時空](https://hanayukii.dev/blog/kol-bull-market-amplifier)
+- [各大 Online Judge 介紹](https://hanayukii.dev/blog/online-judge-guide)
 <!-- BLOG-POST-LIST:END -->
 
 → [所有文章 · hanayukii.dev/blog](https://hanayukii.dev/blog)
