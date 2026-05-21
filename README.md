@@ -2,7 +2,7 @@
 
 # 花雪 · HanaYukii
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C%2B%2B+systems+%C2%B7+low-latency+%C2%B7+performance-sensitive;ICPC+Gold+%C2%B7+Codeforces+IM+%28%7E2350%29+%C2%B7+ex-Google;Building+DR-RL+%E2%80%94+RL+x+VLSI+detailed+routing;Starmine%2C+still+becoming.&font=JetBrains+Mono&size=15&color=2EC4B6&center=true&width=720&height=32&pause=2400)](https://hanayukii.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C%2B%2B+systems+%C2%B7+low-latency+%C2%B7+performance-sensitive;ICPC+Gold+%C2%B7+Codeforces+IM+%28%7E2350%29+%C2%B7+ex-Google;Shipping+ML+systems+at+an+AI+startup;Starmine%2C+still+becoming.&font=JetBrains+Mono&size=15&color=2EC4B6&center=true&width=720&height=32&pause=2400)](https://hanayukii.dev)
 
 [![Site](https://img.shields.io/badge/site-hanayukii.dev-2EC4B6?style=for-the-badge&logoColor=white)](https://hanayukii.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Erh--Hsuan%20Lu-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erh-hsuan-lu-a9b0681ba/)
@@ -18,7 +18,7 @@
 - **Tech Lead @ PulsarisAI** · ex-backend @ **Google Cloud**
 - **ICPC Gold** medalist · **Codeforces International Master** (~2350)
 - C++ specialty: SIMD, lock-free, template metaprogramming, custom allocators
-- Currently shipping **DR-RL** — reinforcement learning engine for VLSI detailed routing
+- Currently shipping ML systems at PulsarisAI
 
 ```
 algorithms     fun
@@ -48,7 +48,7 @@ writing        habit
 
 ### `/CURRENTLY`
 
-- 🛠 **DR-RL** — RL × chip detailed routing (closed-source @ PulsarisAI)
+- 🛠 **PulsarisAI** — ML systems (day job, closed-source)
 - 🧩 [**Competitive-Programming**](https://github.com/HanaYukii/Competitive-Programming) — climbing toward Grandmaster
 - 🛰 [**JAM-Protocol**](https://github.com/HanaYukii/JAM-Protocol) — Polkadot's validator-class blockchain
 - 📅 [**idol-cal**](https://github.com/HanaYukii/idol-cal) — PWA for tracking idol events
