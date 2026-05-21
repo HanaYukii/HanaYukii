@@ -2,7 +2,7 @@
 
 # 花雪 · HanaYukii
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Algorithms+%C2%B7+C%2B%2B+systems+%C2%B7+low-latency;ICPC+Gold+%C2%B7+Codeforces+IM+%C2%B7+LeetCode+2800%2B;Ex-Google+%C2%B7+now+shipping+ML+at+an+AI+startup;Starmine%2C+still+becoming.&font=JetBrains+Mono&size=15&color=2EC4B6&center=true&width=720&height=32&pause=2400)](https://hanayukii.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Algorithms+%C2%B7+C%2B%2B+systems+%C2%B7+low-latency;ICPC+Gold+%C2%B7+Codeforces+IM+%C2%B7+LeetCode+2800%2B;Ex-Google+%C2%B7+now+shipping+ML+at+an+AI+startup;Polkadot+JAM+Protocol+contributor+%C2%B7+zk-curious;Starmine%2C+still+becoming.&font=JetBrains+Mono&size=15&color=2EC4B6&center=true&width=720&height=32&pause=2400)](https://hanayukii.dev)
 
 [![Site](https://img.shields.io/badge/site-hanayukii.dev-2EC4B6?style=for-the-badge&logoColor=white)](https://hanayukii.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Erh--Hsuan%20Lu-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erh-hsuan-lu-a9b0681ba/)
@@ -19,6 +19,7 @@
 - **ICPC Gold** medalist · **Codeforces International Master** · **LeetCode** max 2800+
 - **Algorithms**: DP, graphs, segment trees, string, number theory, computational geometry
 - **C++**: SIMD, lock-free, template metaprogramming, custom allocators
+- **Web3**: [Polkadot JAM Protocol](https://github.com/New-JAMneration/JAM-Protocol) contributor · zk-curious
 - Currently shipping ML systems at PulsarisAI
 
 ```
@@ -51,7 +52,7 @@ writing        habit
 
 - 🛠 **PulsarisAI** — ML systems (day job, closed-source)
 - 🧩 [**Competitive-Programming**](https://github.com/HanaYukii/Competitive-Programming) — climbing toward Grandmaster
-- 🛰 [**JAM-Protocol**](https://github.com/New-JAMneration/JAM-Protocol) — Polkadot's validator-class blockchain
+- 🛰 [**JAM-Protocol**](https://github.com/New-JAMneration/JAM-Protocol) — Polkadot's validator-class blockchain (Go impl, 94★)
 - 📅 [**idol-cal**](https://github.com/HanaYukii/idol-cal) — PWA for tracking idol events
 - ✍️ [**hanayukii-site**](https://github.com/HanaYukii/hanayukii-site) — personal site & blog, Next.js + Tailwind
 
