@@ -1,25 +1,43 @@
+<div align="center">
+
 # 花雪 · HanaYukii
 
-I'm a software engineer based in Taiwan and a Tech Lead at **PulsarisAI**, working on ML systems. Previously, I worked on backend systems at **Google Cloud**.
+[![Algorithms · Code · Notes](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1600&color=2EC4B6&center=true&vCenter=true&width=520&height=40&lines=Algorithms+%C2%B7+C%2B%2B;ML+systems+%C2%B7+Web+apps;Code+%C2%B7+Notes+%C2%B7+Side+projects)](https://hanayukii.dev)
 
-I also build [**Jabiko**](https://jabiko.app/), a Japanese-learning website used by **10,000+ people**. It offers JLPT N5–N1 practice in grammar, vocabulary, and kanji, with spaced repetition for reviewing mistakes.
+**Tech Lead @ PulsarisAI** · previously **Google Cloud** · Taiwan
 
-## Projects
+[![ICPC Gold](https://img.shields.io/badge/ICPC-Gold-E5B567?style=for-the-badge)](https://hanayukii.dev)
+[![Codeforces IM](https://img.shields.io/badge/Codeforces-IM-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HanaYukii)
+[![LeetCode peak 2800+](https://img.shields.io/badge/LeetCode-peak%202800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HanaYukii/)
 
-- **[Jabiko](https://jabiko.app/)** — Japanese study and JLPT practice. My recent work includes the practice dashboard, progress tracking, and question bank. [Code](https://github.com/nurockplayer/Jabiko)
-- **[JAM Protocol](https://github.com/New-JAMneration/JAM-Protocol)** — I contribute to a Go implementation of Polkadot's JAM protocol.
-- **[Competitive Programming](https://github.com/HanaYukii/Competitive-Programming)** — my solutions to Codeforces, AtCoder, LeetCode, and ICPC problems.
-- **[idol-cal](https://github.com/HanaYukii/idol-cal)** — a calendar I use to keep track of idol events.
-- **[Personal site & blog](https://hanayukii.dev)** — my writing and project notes. [Code](https://github.com/HanaYukii/hanayukii-site)
+</div>
 
-## Competitive programming
+### `/PROJECTS`
 
-I enjoy solving algorithm problems and teaching them. I'm an **ICPC gold medalist**, have reached **International Master on Codeforces**, and have a **peak LeetCode rating above 2800**.
+- 🛰 **[JAM Protocol](https://github.com/New-JAMneration/JAM-Protocol)** · contributor to Polkadot's JAM implementation in Go
+- 🧩 **[Competitive Programming](https://github.com/HanaYukii/Competitive-Programming)** · Codeforces, AtCoder, LeetCode & ICPC solutions
+- 🌸 **[Jabiko](https://jabiko.app/)** · Japanese learning & JLPT practice · **10k+ users** · [code](https://github.com/nurockplayer/Jabiko)
+- 📅 **[idol-cal](https://github.com/HanaYukii/idol-cal)** · personal idol-event calendar, actively used
+- ✍️ **[Site & blog](https://hanayukii.dev)** · writing & project notes · [code](https://github.com/HanaYukii/hanayukii-site)
 
-C++ is my main language for competitive programming. I also work with Python, TypeScript, and Go.
+### `/STACK`
 
-## Elsewhere
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[Website](https://hanayukii.dev) · [LinkedIn](https://www.linkedin.com/in/erh-hsuan-lu-a9b0681ba/) · [Codeforces](https://codeforces.com/profile/HanaYukii) · [LeetCode](https://leetcode.com/u/HanaYukii/)
+---
 
-You can reach me at [islu245777@gmail.com](mailto:islu245777@gmail.com) or [book a 30-minute chat](https://calendly.com/islu245777/30min).
+<div align="center">
+
+[![Website](https://img.shields.io/badge/hanayukii.dev-2EC4B6?style=for-the-badge&logoColor=white)](https://hanayukii.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/erh-hsuan-lu-a9b0681ba/)
+[![Email](https://img.shields.io/badge/Email-64748B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islu245777@gmail.com)
+[![Coffee chat](https://img.shields.io/badge/Coffee_chat-E5B567?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://calendly.com/islu245777/30min)
+
+</div>
