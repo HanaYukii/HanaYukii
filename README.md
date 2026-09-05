@@ -15,6 +15,7 @@
 ### `/PROJECTS`
 
 - 🛰 **[JAM Protocol](https://github.com/New-JAMneration/JAM-Protocol)** · contributor to Polkadot's JAM implementation in Go
+- 📚 **[cp-quant](https://hanayukii.github.io/learning-hub/)** · contest write-ups, quant interview prep & C++ notes · [code](https://github.com/HanaYukii/learning-hub)
 - 🧩 **[Competitive Programming](https://github.com/HanaYukii/Competitive-Programming)** · Codeforces, AtCoder, LeetCode & ICPC solutions
 - 🌸 **[Jabiko](https://jabiko.app/)** · Japanese learning & JLPT practice · **10k+ users** · [code](https://github.com/nurockplayer/Jabiko)
 - 📅 **[idol-cal](https://github.com/HanaYukii/idol-cal)** · personal idol-event calendar, actively used
