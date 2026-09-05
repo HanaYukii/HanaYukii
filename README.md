@@ -9,7 +9,7 @@ I also build [**Jabiko**](https://jabiko.app/), a Japanese-learning website used
 - **[Jabiko](https://jabiko.app/)** — Japanese study and JLPT practice. My recent work includes the practice dashboard, progress tracking, and question bank. [Code](https://github.com/nurockplayer/Jabiko)
 - **[JAM Protocol](https://github.com/New-JAMneration/JAM-Protocol)** — I contribute to a Go implementation of Polkadot's JAM protocol.
 - **[Competitive Programming](https://github.com/HanaYukii/Competitive-Programming)** — my solutions to Codeforces, AtCoder, LeetCode, and ICPC problems.
-- **[idol-cal](https://github.com/HanaYukii/idol-cal)** — a web app for keeping track of idol events.
+- **[idol-cal](https://github.com/HanaYukii/idol-cal)** — a calendar I use to keep track of idol events.
 - **[Personal site & blog](https://hanayukii.dev)** — my writing and project notes. [Code](https://github.com/HanaYukii/hanayukii-site)
 
 ## Competitive programming
